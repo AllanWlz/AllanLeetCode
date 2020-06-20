@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-allan.wanglz@qq.com-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-36/1685-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-11-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-19-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-39/1685-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-12-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-21-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-6-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2020-06-18 22:29:00</b>
+    <b>Last updated: 2020-06-20 18:48:05</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -22,10 +22,13 @@
 | # | Title | Solutions | Acceptance | Difficulty | Tags |
 |:--:|:-----|:---------:|:----:|:----:|:----:|
 |1449|[Form Largest Integer With Digits That Add up to Target](Problemset/form-largest-integer-with-digits-that-add-up-to-target/README_EN.md)|[Python](Problemset/form-largest-integer-with-digits-that-add-up-to-target/form-largest-integer-with-digits-that-add-up-to-target.py)|35.9%|hard|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
+|973|[K Closest Points to Origin](Problemset/k-closest-points-to-origin/README_EN.md)|[Python](Problemset/k-closest-points-to-origin/k-closest-points-to-origin.py)|58.6%|medium|[Heap](https://leetcode-cn.com/tag/heap)<br>[Sort](https://leetcode-cn.com/tag/sort)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
 |933|[Number of Recent Calls](Problemset/number-of-recent-calls/README_EN.md)|[Python](Problemset/number-of-recent-calls/number-of-recent-calls.py)|70.7%|easy|[Queue](https://leetcode-cn.com/tag/queue)|
+|697|[Degree of an Array](Problemset/degree-of-an-array/README_EN.md)|[Python](Problemset/degree-of-an-array/degree-of-an-array.py)|53.6%|easy|[Array](https://leetcode-cn.com/tag/array)|
 |494|[Target Sum](Problemset/target-sum/README_EN.md)|[C++](Problemset/target-sum/target-sum.cpp)|44.4%|medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |221|[Maximal Square](Problemset/maximal-square/README_EN.md)|[C++](Problemset/maximal-square/maximal-square.cpp)|42.5%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
-|120|[Triangle](Problemset/triangle/README_EN.md)|[C++](Problemset/triangle/triangle.cpp)|64.8%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
+|162|[Find Peak Element](Problemset/find-peak-element/README_EN.md)|[Python](Problemset/find-peak-element/find-peak-element.py)|46.5%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
+|120|[Triangle](Problemset/triangle/README_EN.md)|[C++](Problemset/triangle/triangle.cpp)|64.9%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |31|[Next Permutation](Problemset/next-permutation/README_EN.md)|[Python](Problemset/next-permutation/next-permutation.py)|33.8%|medium|[Array](https://leetcode-cn.com/tag/array)|
 |30|[Substring with Concatenation of All Words](Problemset/substring-with-concatenation-of-all-words/README_EN.md)|[Python](Problemset/substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.py)|30.8%|hard|[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)<br>[String](https://leetcode-cn.com/tag/string)|
 |29|[Divide Two Integers](Problemset/divide-two-integers/README_EN.md)|[Python](Problemset/divide-two-integers/divide-two-integers.py)|19.9%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
@@ -45,9 +48,9 @@
 |15|[3Sum](Problemset/3sum/README_EN.md)|[Python](Problemset/3sum/3sum.py)|28.1%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)|
 |14|[Longest Common Prefix](Problemset/longest-common-prefix/README_EN.md)|[Python](Problemset/longest-common-prefix/longest-common-prefix.py)|38.3%|easy|[String](https://leetcode-cn.com/tag/string)|
 |13|[Roman to Integer](Problemset/roman-to-integer/README_EN.md)|[Python](Problemset/roman-to-integer/roman-to-integer.py)|61.7%|easy|[Math](https://leetcode-cn.com/tag/math)<br>[String](https://leetcode-cn.com/tag/string)|
-|12|[Integer to Roman](Problemset/integer-to-roman/README_EN.md)|[Python](Problemset/integer-to-roman/integer-to-roman.py)|63.7%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[String](https://leetcode-cn.com/tag/string)|
+|12|[Integer to Roman](Problemset/integer-to-roman/README_EN.md)|[Python](Problemset/integer-to-roman/integer-to-roman.py)|63.8%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[String](https://leetcode-cn.com/tag/string)|
 |11|[Container With Most Water](Problemset/container-with-most-water/README_EN.md)|[Python](Problemset/container-with-most-water/container-with-most-water.py)|63.5%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)|
-|10|[Regular Expression Matching](Problemset/regular-expression-matching/README_EN.md)|[C++](Problemset/regular-expression-matching/regular-expression-matching.cpp)|28.3%|hard|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
+|10|[Regular Expression Matching](Problemset/regular-expression-matching/README_EN.md)|[C++](Problemset/regular-expression-matching/regular-expression-matching.cpp)|29.1%|hard|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |9|[Palindrome Number](Problemset/palindrome-number/README_EN.md)|[C++](Problemset/palindrome-number/palindrome-number.cpp)|58.3%|easy|[Math](https://leetcode-cn.com/tag/math)|
 |8|[String to Integer (atoi)](Problemset/string-to-integer-atoi/README_EN.md)|[Python](Problemset/string-to-integer-atoi/string-to-integer-atoi.py)|20.6%|medium|[Math](https://leetcode-cn.com/tag/math)<br>[String](https://leetcode-cn.com/tag/string)|
 |7|[Reverse Integer](Problemset/reverse-integer/README_EN.md)|[C++](Problemset/reverse-integer/reverse-integer.cpp)|34.3%|easy|[Math](https://leetcode-cn.com/tag/math)|
@@ -56,4 +59,4 @@
 |4|[Median of Two Sorted Arrays](Problemset/median-of-two-sorted-arrays/README_EN.md)|[C++](Problemset/median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp)|38.3%|hard|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)<br>[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)|
 |3|[Longest Substring Without Repeating Characters](Problemset/longest-substring-without-repeating-characters/README_EN.md)|[C++](Problemset/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp)|34.8%|medium|[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)<br>[String](https://leetcode-cn.com/tag/string)<br>[Sliding Window](https://leetcode-cn.com/tag/sliding-window)|
 |2|[Add Two Numbers](Problemset/add-two-numbers/README_EN.md)|[C++](Problemset/add-two-numbers/add-two-numbers.cpp)|37.6%|medium|[Linked List](https://leetcode-cn.com/tag/linked-list)<br>[Math](https://leetcode-cn.com/tag/math)|
-|1|[Two Sum](Problemset/two-sum/README_EN.md)|[C++](Problemset/two-sum/two-sum.cpp)|48.7%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)|
+|1|[Two Sum](Problemset/two-sum/README_EN.md)|[C++](Problemset/two-sum/two-sum.cpp)|48.8%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)|
